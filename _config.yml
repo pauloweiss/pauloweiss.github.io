@@ -1,9 +1,10 @@
 title: Meu Blog Pessoal
-email: seu-email@exemplo.com
+email: pauloalbertoweiss@gmail.com
 description: Um blog sobre desenvolvimento web e tecnologia
 baseurl: ""
 url: "http://localhost:4000"
-github_username: seu-usuario
+github_pauloweiss: "https://pauloweiss.github.io"
+baseurl: ""ss 
 
 markdown: kramdown
 theme: minima
