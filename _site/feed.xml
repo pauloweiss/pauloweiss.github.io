@@ -1,1 +1,84 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-31T04:24:24-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Meu Blog Pessoal</title><subtitle>Um blog sobre desenvolvimento web e tecnologia</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-11-04T01:37:49-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Meu Blog Pessoal</title><subtitle>Um blog sobre desenvolvimento web e tecnologia</subtitle><entry><title type="html">Por que escolhi Linux Debian para Desenvolvimento Web</title><link href="http://localhost:4000/linux/desenvolvimento/2025/11/03/por-que-linux.html" rel="alternate" type="text/html" title="Por que escolhi Linux Debian para Desenvolvimento Web" /><published>2025-11-03T10:00:00-03:00</published><updated>2025-11-03T10:00:00-03:00</updated><id>http://localhost:4000/linux/desenvolvimento/2025/11/03/por-que-linux</id><content type="html" xml:base="http://localhost:4000/linux/desenvolvimento/2025/11/03/por-que-linux.html"><![CDATA[<p>Recentemente migrei para Linux Debian e foi uma das melhores decisões para minha carreira de desenvolvedor.</p>
+
+<h2 id="vantagens-do-linux-para-desenvolvimento">Vantagens do Linux para Desenvolvimento</h2>
+
+<h3 id="1-terminal-poderoso">1. Terminal Poderoso</h3>
+<p>O terminal Linux é extremamente poderoso e eficiente. Você consegue fazer muito mais com comandos do que em interfaces gráficas.</p>
+
+<h3 id="2-ferramentas-nativas">2. Ferramentas Nativas</h3>
+<p>Muitas ferramentas de desenvolvimento são feitas primariamente para Linux:</p>
+<ul>
+  <li>Git</li>
+  <li>Docker</li>
+  <li>Nginx</li>
+  <li>Node.js e npm</li>
+</ul>
+
+<h3 id="3-gratuito-e-open-source">3. Gratuito e Open Source</h3>
+<p>Tudo é gratuito e você pode ver o código-fonte de praticamente qualquer ferramenta.</p>
+
+<h3 id="4-performance">4. Performance</h3>
+<p>Linux é mais leve e rápido que outros sistemas operacionais.</p>
+
+<h2 id="por-que-debian">Por que Debian?</h2>
+
+<ul>
+  <li><strong>Estável</strong>: Menos bugs e problemas</li>
+  <li><strong>Grande comunidade</strong>: Fácil encontrar ajuda</li>
+  <li><strong>Repositórios confiáveis</strong>: Software testado e seguro</li>
+  <li><strong>Base para Ubuntu</strong>: Conhecimento transferível</li>
+</ul>
+
+<h2 id="ferramentas-que-uso-no-debian">Ferramentas que uso no Debian</h2>
+
+<ul>
+  <li><strong>VS Code</strong>: Editor de código</li>
+  <li><strong>Git</strong>: Controle de versão</li>
+  <li><strong>Jekyll</strong>: Gerador de sites estáticos</li>
+  <li><strong>Firefox</strong>: Navegador</li>
+  <li><strong>Terminal</strong>: Minha ferramenta favorita!</li>
+</ul>
+
+<p>Migrar para Linux foi desafiador no início, mas valeu muito a pena!</p>]]></content><author><name></name></author><category term="linux" /><category term="desenvolvimento" /><category term="linux" /><category term="debian" /><category term="ferramentas" /><summary type="html"><![CDATA[Recentemente migrei para Linux Debian e foi uma das melhores decisões para minha carreira de desenvolvedor.]]></summary></entry><entry><title type="html">Aprendendo Jekyll</title><link href="http://localhost:4000/2025/11/02/aprendendo-jekyll.html" rel="alternate" type="text/html" title="Aprendendo Jekyll" /><published>2025-11-02T00:00:00-03:00</published><updated>2025-11-02T00:00:00-03:00</updated><id>http://localhost:4000/2025/11/02/aprendendo-jekyll</id><content type="html" xml:base="http://localhost:4000/2025/11/02/aprendendo-jekyll.html"><![CDATA[<p>–
+layout: post
+title: “Bem-vindo ao meu blog!”
+date: 2025-11-02 00:00:00 -0300
+categories: geral
+—</p>
+
+<p>Este é o meu post sobre aprendendo-jekyll.</p>
+
+<h2 id="por-que-criar-este-post">Por que criar este post?</h2>
+
+<ul>
+  <li>Documentar meu progresso</li>
+  <li>Compartilhar conhecimento</li>
+  <li>Praticar jekyll</li>
+  <li>Construir portfólio</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[– layout: post title: “Bem-vindo ao meu blog!” date: 2025-11-02 00:00:00 -0300 categories: geral —]]></summary></entry><entry><title type="html">Bem Vindo</title><link href="http://localhost:4000/2025/11/02/bem-vindo.html" rel="alternate" type="text/html" title="Bem Vindo" /><published>2025-11-02T00:00:00-03:00</published><updated>2025-11-02T00:00:00-03:00</updated><id>http://localhost:4000/2025/11/02/bem-vindo</id><content type="html" xml:base="http://localhost:4000/2025/11/02/bem-vindo.html"><![CDATA[<p>–
+layout: post
+title: “Bem-vindo ao meu blog!”
+date: 2025-11-02 00:00:00 -0300
+categories: geral
+—</p>
+
+<p>Bem vindo!</p>
+
+<h2 id="por-que-criar-este-post">Por que criar este post?</h2>
+
+<ul>
+  <li>Compartilhar conhecimento</li>
+  <li>Praticar</li>
+  <li>Construir portfólio</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[– layout: post title: “Bem-vindo ao meu blog!” date: 2025-11-02 00:00:00 -0300 categories: geral —]]></summary></entry><entry><title type="html">Bem-vindo ao meu blog!</title><link href="http://localhost:4000/geral/2025/10/31/bem-vindo.html" rel="alternate" type="text/html" title="Bem-vindo ao meu blog!" /><published>2025-10-31T10:00:00-03:00</published><updated>2025-10-31T10:00:00-03:00</updated><id>http://localhost:4000/geral/2025/10/31/bem-vindo</id><content type="html" xml:base="http://localhost:4000/geral/2025/10/31/bem-vindo.html"><![CDATA[<p>Este é o meu primeiro post! Estou animado para começar a compartilhar meu aprendizado em desenvolvimento web.</p>
+
+<h2 id="por-que-criar-um-blog">Por que criar um blog?</h2>
+
+<ul>
+  <li>Documentar meu progresso</li>
+  <li>Compartilhar conhecimento</li>
+  <li>Praticar escrita técnica</li>
+  <li>Construir portfólio</li>
+</ul>
+
+<p>Nos próximos posts vou falar sobre Jekyll, Git, e muito mais!</p>]]></content><author><name></name></author><category term="geral" /><summary type="html"><![CDATA[Este é o meu primeiro post! Estou animado para começar a compartilhar meu aprendizado em desenvolvimento web.]]></summary></entry></feed>
