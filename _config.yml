@@ -3,7 +3,7 @@ email: pauloalbertoweiss@gmail.com
 description: Um blog sobre desenvolvimento web e tecnologia
 baseurl: ""
 url: "http://localhost:4000"
-github_pauloweiss: "https://pauloweiss.github.io"
+github_pauloweiss: https://github.com/pauloweiss/meu-blog-pessoal.git
 baseurl: ""ss 
 
 markdown: kramdown
