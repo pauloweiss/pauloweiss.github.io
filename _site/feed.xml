@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-11-04T01:37:49-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Meu Blog Pessoal</title><subtitle>Um blog sobre desenvolvimento web e tecnologia</subtitle><entry><title type="html">Por que escolhi Linux Debian para Desenvolvimento Web</title><link href="http://localhost:4000/linux/desenvolvimento/2025/11/03/por-que-linux.html" rel="alternate" type="text/html" title="Por que escolhi Linux Debian para Desenvolvimento Web" /><published>2025-11-03T10:00:00-03:00</published><updated>2025-11-03T10:00:00-03:00</updated><id>http://localhost:4000/linux/desenvolvimento/2025/11/03/por-que-linux</id><content type="html" xml:base="http://localhost:4000/linux/desenvolvimento/2025/11/03/por-que-linux.html"><![CDATA[<p>Recentemente migrei para Linux Debian e foi uma das melhores decisões para minha carreira de desenvolvedor.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-11-05T00:33:37-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Meu Blog de Desenvolvimento</title><subtitle>Blog pessoal sobre desenvolvimento web, programação e tecnologia. Compartilhando aprendizados e experiências.</subtitle><author><name>Paulo Weiss</name></author><entry><title type="html">Título do Post</title><link href="http://localhost:4000/desenvolvimento/2025/11/04/bem-vindo.html" rel="alternate" type="text/html" title="Título do Post" /><published>2025-11-04T14:30:00-03:00</published><updated>2025-11-04T14:30:00-03:00</updated><id>http://localhost:4000/desenvolvimento/2025/11/04/bem-vindo</id><content type="html" xml:base="http://localhost:4000/desenvolvimento/2025/11/04/bem-vindo.html"><![CDATA[<p>Este é o meu primeiro post! Estou animado para começar a compartilhar meu aprendizado em desenvolvimento web.</p>
+
+<h2 id="por-que-criar-um-blog">Por que criar um blog?</h2>
+
+<ul>
+  <li>Documentar meu progresso</li>
+  <li>Compartilhar conhecimento</li>
+  <li>Praticar escrita técnica</li>
+  <li>Construir portfólio</li>
+</ul>
+
+<p>Nos próximos posts vou falar sobre Jekyll, Git, e muito mais!</p>]]></content><author><name>Paulo Weiss</name></author><category term="desenvolvimento" /><category term="jekyll" /><category term="blog" /><summary type="html"><![CDATA[Este é o meu primeiro post! Estou animado para começar a compartilhar meu aprendizado em desenvolvimento web.]]></summary></entry><entry><title type="html">Título do Post</title><link href="http://localhost:4000/desenvolvimento/2025/11/04/aprendendo-jekyll.html" rel="alternate" type="text/html" title="Título do Post" /><published>2025-11-04T14:30:00-03:00</published><updated>2025-11-04T14:30:00-03:00</updated><id>http://localhost:4000/desenvolvimento/2025/11/04/aprendendo-jekyll</id><content type="html" xml:base="http://localhost:4000/desenvolvimento/2025/11/04/aprendendo-jekyll.html"><![CDATA[<p>Este é o meu post sobre aprendendo-jekyll.</p>
+
+<h2 id="por-que-criar-este-post">Por que criar este post?</h2>
+
+<ul>
+  <li>Documentar meu progresso</li>
+  <li>Compartilhar conhecimento</li>
+  <li>Praticar jekyll</li>
+  <li>Construir portfólio</li>
+</ul>]]></content><author><name>Paulo Weiss</name></author><category term="desenvolvimento" /><category term="jekyll" /><category term="blog" /><summary type="html"><![CDATA[Este é o meu post sobre aprendendo-jekyll.]]></summary></entry><entry><title type="html">Título do Post</title><link href="http://localhost:4000/desenvolvimento/2025/11/04/bem-vindo.html" rel="alternate" type="text/html" title="Título do Post" /><published>2025-11-04T14:30:00-03:00</published><updated>2025-11-04T14:30:00-03:00</updated><id>http://localhost:4000/desenvolvimento/2025/11/04/bem-vindo</id><content type="html" xml:base="http://localhost:4000/desenvolvimento/2025/11/04/bem-vindo.html"><![CDATA[<p>Bem vindo!</p>
+
+<h2 id="por-que-criar-este-post">Por que criar este post?</h2>
+
+<ul>
+  <li>Compartilhar conhecimento</li>
+  <li>Praticar</li>
+  <li>Construir portfólio</li>
+</ul>]]></content><author><name>Paulo Weiss</name></author><category term="desenvolvimento" /><category term="jekyll" /><category term="blog" /><summary type="html"><![CDATA[Bem vindo!]]></summary></entry><entry><title type="html">Título do Post</title><link href="http://localhost:4000/desenvolvimento/2025/11/04/por-que-linux.html" rel="alternate" type="text/html" title="Título do Post" /><published>2025-11-04T14:30:00-03:00</published><updated>2025-11-04T14:30:00-03:00</updated><id>http://localhost:4000/desenvolvimento/2025/11/04/por-que-linux</id><content type="html" xml:base="http://localhost:4000/desenvolvimento/2025/11/04/por-que-linux.html"><![CDATA[<p>Recentemente migrei para Linux Debian e foi uma das melhores decisões para minha carreira de desenvolvedor.</p>
 
 <h2 id="vantagens-do-linux-para-desenvolvimento">Vantagens do Linux para Desenvolvimento</h2>
 
@@ -39,46 +67,85 @@
   <li><strong>Terminal</strong>: Minha ferramenta favorita!</li>
 </ul>
 
-<p>Migrar para Linux foi desafiador no início, mas valeu muito a pena!</p>]]></content><author><name></name></author><category term="linux" /><category term="desenvolvimento" /><category term="linux" /><category term="debian" /><category term="ferramentas" /><summary type="html"><![CDATA[Recentemente migrei para Linux Debian e foi uma das melhores decisões para minha carreira de desenvolvedor.]]></summary></entry><entry><title type="html">Aprendendo Jekyll</title><link href="http://localhost:4000/2025/11/02/aprendendo-jekyll.html" rel="alternate" type="text/html" title="Aprendendo Jekyll" /><published>2025-11-02T00:00:00-03:00</published><updated>2025-11-02T00:00:00-03:00</updated><id>http://localhost:4000/2025/11/02/aprendendo-jekyll</id><content type="html" xml:base="http://localhost:4000/2025/11/02/aprendendo-jekyll.html"><![CDATA[<p>–
-layout: post
-title: “Bem-vindo ao meu blog!”
-date: 2025-11-02 00:00:00 -0300
-categories: geral
-—</p>
+<p>Migrar para Linux foi desafiador no início, mas valeu muito a pena!</p>]]></content><author><name>Paulo Weiss</name></author><category term="desenvolvimento" /><category term="jekyll" /><category term="blog" /><summary type="html"><![CDATA[Recentemente migrei para Linux Debian e foi uma das melhores decisões para minha carreira de desenvolvedor.]]></summary></entry><entry><title type="html">Título do Post</title><link href="http://localhost:4000/desenvolvimento/2025/11/04/aprendendo-jekyll.html" rel="alternate" type="text/html" title="Título do Post" /><published>2025-11-04T14:30:00-03:00</published><updated>2025-11-04T14:30:00-03:00</updated><id>http://localhost:4000/desenvolvimento/2025/11/04/aprendendo-jekyll</id><content type="html" xml:base="http://localhost:4000/desenvolvimento/2025/11/04/aprendendo-jekyll.html"><![CDATA[<p>Hoje dei um passo importante na minha jornada como desenvolvedor: criei meu próprio blog usando Jekyll!</p>
 
-<p>Este é o meu post sobre aprendendo-jekyll.</p>
+<h2 id="o-que-é-jekyll">O que é Jekyll?</h2>
 
-<h2 id="por-que-criar-este-post">Por que criar este post?</h2>
+<p>Jekyll é um gerador de sites estáticos que transforma arquivos Markdown em um site HTML completo. É perfeito para blogs porque:</p>
 
 <ul>
-  <li>Documentar meu progresso</li>
-  <li>Compartilhar conhecimento</li>
-  <li>Praticar jekyll</li>
-  <li>Construir portfólio</li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[– layout: post title: “Bem-vindo ao meu blog!” date: 2025-11-02 00:00:00 -0300 categories: geral —]]></summary></entry><entry><title type="html">Bem Vindo</title><link href="http://localhost:4000/2025/11/02/bem-vindo.html" rel="alternate" type="text/html" title="Bem Vindo" /><published>2025-11-02T00:00:00-03:00</published><updated>2025-11-02T00:00:00-03:00</updated><id>http://localhost:4000/2025/11/02/bem-vindo</id><content type="html" xml:base="http://localhost:4000/2025/11/02/bem-vindo.html"><![CDATA[<p>–
-layout: post
-title: “Bem-vindo ao meu blog!”
-date: 2025-11-02 00:00:00 -0300
-categories: geral
-—</p>
-
-<p>Bem vindo!</p>
-
-<h2 id="por-que-criar-este-post">Por que criar este post?</h2>
-
-<ul>
-  <li>Compartilhar conhecimento</li>
-  <li>Praticar</li>
-  <li>Construir portfólio</li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[– layout: post title: “Bem-vindo ao meu blog!” date: 2025-11-02 00:00:00 -0300 categories: geral —]]></summary></entry><entry><title type="html">Bem-vindo ao meu blog!</title><link href="http://localhost:4000/geral/2025/10/31/bem-vindo.html" rel="alternate" type="text/html" title="Bem-vindo ao meu blog!" /><published>2025-10-31T10:00:00-03:00</published><updated>2025-10-31T10:00:00-03:00</updated><id>http://localhost:4000/geral/2025/10/31/bem-vindo</id><content type="html" xml:base="http://localhost:4000/geral/2025/10/31/bem-vindo.html"><![CDATA[<p>Este é o meu primeiro post! Estou animado para começar a compartilhar meu aprendizado em desenvolvimento web.</p>
-
-<h2 id="por-que-criar-um-blog">Por que criar um blog?</h2>
-
-<ul>
-  <li>Documentar meu progresso</li>
-  <li>Compartilhar conhecimento</li>
-  <li>Praticar escrita técnica</li>
-  <li>Construir portfólio</li>
+  <li>É gratuito e open source</li>
+  <li>Funciona perfeitamente com GitHub Pages</li>
+  <li>Usa Markdown (fácil de escrever)</li>
+  <li>É rápido e seguro (sem banco de dados)</li>
 </ul>
 
-<p>Nos próximos posts vou falar sobre Jekyll, Git, e muito mais!</p>]]></content><author><name></name></author><category term="geral" /><summary type="html"><![CDATA[Este é o meu primeiro post! Estou animado para começar a compartilhar meu aprendizado em desenvolvimento web.]]></summary></entry></feed>
+<h2 id="o-que-aprendi-hoje">O que aprendi hoje</h2>
+
+<ol>
+  <li><strong>Instalação do Jekyll no Debian</strong>: Configurar Ruby e dependências</li>
+  <li><strong>Estrutura de arquivos</strong>: Como organizar posts, páginas e configurações</li>
+  <li><strong>Git e GitHub</strong>: Controle de versão e deploy automático</li>
+  <li><strong>Markdown</strong>: Sintaxe simples para formatação de texto</li>
+</ol>
+
+<h2 id="próximos-passos">Próximos passos</h2>
+
+<ul>
+  <li>Personalizar o tema do blog</li>
+  <li>Adicionar mais conteúdo</li>
+  <li>Explorar plugins do Jekyll</li>
+  <li>Compartilhar conhecimento</li>
+</ul>
+
+<hr />
+
+<p><em>Este é apenas o começo da minha jornada!</em></p>]]></content><author><name>Paulo Weiss</name></author><category term="desenvolvimento" /><category term="jekyll" /><category term="blog" /><summary type="html"><![CDATA[Hoje dei um passo importante na minha jornada como desenvolvedor: criei meu próprio blog usando Jekyll!]]></summary></entry><entry><title type="html">Título do Post</title><link href="http://localhost:4000/desenvolvimento/2025/11/04/git-comandos-basicos.html" rel="alternate" type="text/html" title="Título do Post" /><published>2025-11-04T14:30:00-03:00</published><updated>2025-11-04T14:30:00-03:00</updated><id>http://localhost:4000/desenvolvimento/2025/11/04/git-comandos-basicos</id><content type="html" xml:base="http://localhost:4000/desenvolvimento/2025/11/04/git-comandos-basicos.html"><![CDATA[<p>O Git é essencial para qualquer desenvolvedor. Aqui estão os comandos que uso diariamente:</p>
+
+<h2 id="comandos-básicos">Comandos Básicos</h2>
+
+<h3 id="inicializar-repositório">Inicializar repositório</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git init
+</code></pre></div></div>
+
+<h3 id="ver-status-dos-arquivos">Ver status dos arquivos</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git status
+</code></pre></div></div>
+
+<h3 id="adicionar-arquivos">Adicionar arquivos</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git add <span class="nb">.</span>                <span class="c"># Adiciona todos</span>
+git add arquivo.txt      <span class="c"># Adiciona específico</span>
+</code></pre></div></div>
+
+<h3 id="fazer-commit">Fazer commit</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git commit <span class="nt">-m</span> <span class="s2">"Mensagem descritiva"</span>
+</code></pre></div></div>
+
+<h3 id="enviar-para-github">Enviar para GitHub</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git push origin main
+</code></pre></div></div>
+
+<h2 id="comandos-úteis">Comandos Úteis</h2>
+
+<h3 id="ver-histórico">Ver histórico</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git log <span class="nt">--oneline</span> <span class="nt">--graph</span>
+</code></pre></div></div>
+
+<h3 id="desfazer-alterações">Desfazer alterações</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git checkout <span class="nt">--</span> arquivo.txt
+</code></pre></div></div>
+
+<h3 id="ver-diferenças">Ver diferenças</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git diff
+</code></pre></div></div>
+
+<h2 id="dicas">Dicas</h2>
+
+<ul>
+  <li>Faça commits pequenos e frequentes</li>
+  <li>Escreva mensagens de commit claras</li>
+  <li>Use branches para novas features</li>
+  <li>Sempre faça <code class="language-plaintext highlighter-rouge">git pull</code> antes de começar a trabalhar</li>
+</ul>
+
+<p>Esses comandos cobrem 90% do uso diário do Git!</p>]]></content><author><name>Paulo Weiss</name></author><category term="desenvolvimento" /><category term="jekyll" /><category term="blog" /><summary type="html"><![CDATA[O Git é essencial para qualquer desenvolvedor. Aqui estão os comandos que uso diariamente:]]></summary></entry></feed>

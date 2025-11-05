@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "Por que escolhi Linux Debian para Desenvolvimento Web"
-date: 2025-11-03 10:00:00 -0300
-categories: linux desenvolvimento
-tags: [linux, debian, ferramentas]
+layout: single
+title: "Título do Post"
+date: 2025-11-04 14:30:00 -0300
+categories: desenvolvimento
+tags: [jekyll, blog]
+toc: true  # Tabela de conteúdo
+toc_label: "Neste post"
+toc_icon: "list"
 ---
 
 Recentemente migrei para Linux Debian e foi uma das melhores decisões para minha carreira de desenvolvedor.

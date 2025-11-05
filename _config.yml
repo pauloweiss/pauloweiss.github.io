@@ -1,6 +1,51 @@
-title: Meu Blog Pessoal
+# Tema
+theme: minimal-mistakes-jekyll
+
+# Informações do site
+title: "Meu Blog de Desenvolvimento"
 email: seu-email@exemplo.com
-description: Um blog sobre desenvolvimento web e tecnologia
+description: >-
+  Blog pessoal sobre desenvolvimento web, programação e tecnologia.
+  Compartilhando aprendizados e experiências.
+
 baseurl: ""
 url: "https://pauloweiss.github.io"
-github_username: pauloweiss
+
+# Autor
+author:
+  name: "Paulo Weiss"
+  avatar: "/assets/images/avatar.jpg" # opcional
+  bio: "Desenvolvedor Web Iniciante"
+  location: "Santa Maria, RS"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/pauloweiss"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:seu-email@exemplo.com"
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+
+# Paginação
+paginate: 5
+paginate_path: /page:num/

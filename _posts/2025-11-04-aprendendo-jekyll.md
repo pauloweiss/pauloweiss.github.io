@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "Aprendendo Jekyll: Minha Jornada"
+layout: single
+title: "Título do Post"
 date: 2025-11-04 14:30:00 -0300
-categories: desenvolvimento jekyll
-tags: [jekyll, blog, aprendizado]
+categories: desenvolvimento
+tags: [jekyll, blog]
+toc: true  # Tabela de conteúdo
+toc_label: "Neste post"
+toc_icon: "list"
 ---
 
 Hoje dei um passo importante na minha jornada como desenvolvedor: criei meu próprio blog usando Jekyll!

@@ -1,8 +1,12 @@
---
-layout: post
-title: "Bem-vindo ao meu blog!"
-date: 2025-11-02 00:00:00 -0300
-categories: geral
+---
+layout: single
+title: "Título do Post"
+date: 2025-11-04 14:30:00 -0300
+categories: desenvolvimento
+tags: [jekyll, blog]
+toc: true  # Tabela de conteúdo
+toc_label: "Neste post"
+toc_icon: "list"
 ---
 
 Este é o meu post sobre aprendendo-jekyll.
